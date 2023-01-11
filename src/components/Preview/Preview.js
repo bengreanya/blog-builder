@@ -7,7 +7,7 @@ export default function Preview() {
   //  Note - the HTML should have the following structure
   //  the main div should have a class of preview and the font-name prop
   //  and should have style interpolated using the alignment prop
-
+  // return <div className="preview"></div>;
   // <div class="preview indie-flower" style="text-align: center;">
   //   <h1> Blog Title</h1>
   //   <h3> Blog Subtitle</h3>
