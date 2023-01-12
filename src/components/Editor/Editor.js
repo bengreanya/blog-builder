@@ -17,7 +17,6 @@ export default function Editor({ setTitle, setSubtitle, setFont, setText, setAli
   }
   function handleSetAlign(e) {
     setAlign(e.target.value);
-    console.log('works');
   }
 
   return (
